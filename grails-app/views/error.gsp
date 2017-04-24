@@ -21,7 +21,7 @@
 		  _paq.push(['trackPageView']);
 		  _paq.push(['enableLinkTracking']);
 		  (function() {
-		    var u="//150.161.11.195/";
+		    var u="//piwikteste.zapto.org/";
 		    _paq.push(['setTrackerUrl', u+'piwik.php']);
 		    _paq.push(['setSiteId', '4']);
 		    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
